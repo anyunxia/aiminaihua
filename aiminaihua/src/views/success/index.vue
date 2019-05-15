@@ -1,5 +1,6 @@
 <template>
     <div class="success">
+    	<!--在branch上修改了代码-->
       <v-header></v-header>
         <div class="banner" ref="homePage">
             <div class="banner-p">
